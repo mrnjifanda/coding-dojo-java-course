@@ -29,7 +29,6 @@ public class Loops {
         System.out.println(snacks);
     }
 
-
     public static void secondMethod() {
     
         ArrayList<String> snacks = new ArrayList<String> ();

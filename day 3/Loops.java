@@ -32,13 +32,13 @@ public class Loops {
     public static void loopsExample() {
 
         ArrayList<Integer> myArray = new ArrayList<Integer>();
-        // myArray.add(1);
-        // myArray.add(2);
-        // myArray.add(3);
-        // myArray.add(4);
-        // myArray.add(5);
-        // myArray.add(6);
-        // myArray.add(7);
+        myArray.add(1);
+        myArray.add(2);
+        myArray.add(3);
+        myArray.add(4);
+        myArray.add(5);
+        myArray.add(6);
+        myArray.add(7);
 
         int i = 1;
         while (i <= 100) {
