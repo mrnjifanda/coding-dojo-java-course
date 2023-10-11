@@ -19,19 +19,6 @@ public class App {
 
         System.out.println( "String Length is : " + length );
 
-
-
-
-
-
-
-
-
-
-
-
-
-
         boolean isRaining = false;
         if (isRaining) {
 
